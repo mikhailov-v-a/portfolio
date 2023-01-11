@@ -4,12 +4,12 @@
 
 |Название-ссылка|Описание|Стек|
 |:-:|:-:|:-:|
-|DA-практикум|Короткие вопросы по данным и ответы на них|Excel</br>Power BI</br>pandas</br>|
+|[DA-практикум](https://github.com/mikhailov-v-a/portfolio/tree/main/da_projects/edu/da_workshop)|Короткие вопросы по данным и ответы на них|Excel</br>Power BI</br>pandas</br>|
 
 
 ### Тестовые
 |Название-ссылка|Описание|Стек|
 |:-:|:-:|:-:|
-|BPG|Парсинг URL адресов с сайта|Excel</br>requests</br>BeautifulSoup</br>re|
-|SL|Аналитика продаж|Excel|
-|SB|SQL-запросы, вопросы по аналитике, парсинг|Excel</br>SQL</br>pandas</br>numpy</br>BeautifulSoup|
+|[BPG](https://github.com/mikhailov-v-a/portfolio/tree/main/da_projects/test/bpg)|Парсинг URL адресов с сайта|Excel</br>requests</br>BeautifulSoup</br>re|
+|[SL](https://github.com/mikhailov-v-a/portfolio/tree/main/da_projects/test/sl)|Аналитика продаж|Excel|
+|[SB](https://github.com/mikhailov-v-a/portfolio/tree/main/da_projects/test/sb)|SQL-запросы, вопросы по аналитике, парсинг|Excel</br>SQL</br>pandas</br>numpy</br>BeautifulSoup|
