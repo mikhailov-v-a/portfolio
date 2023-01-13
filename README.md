@@ -16,4 +16,4 @@
 |[GB-мед](https://github.com/mikhailov-v-a/portfolio/tree/main/da_projects/test/gb)|SQL-запросы|SQL</br>|
 |[MM-маркет](https://github.com/mikhailov-v-a/portfolio/tree/main/da_projects/test/mm)|Решение задач в Excel|Excel</br>|
 |[RB-банк](https://github.com/mikhailov-v-a/portfolio/tree/main/da_projects/test/rb)|SQL-запросы|SQL</br>|
-|[MRS-маркет](https://github.com/mikhailov-v-a/portfolio/tree/main/da_projects/test/mrs)|Решение задач в Excel|ExcelL</br>|
+|[MRS-маркет](https://github.com/mikhailov-v-a/portfolio/tree/main/da_projects/test/mrs)|Решение задач в Excel|Excel</br>|
