@@ -14,4 +14,5 @@
 |[SL-маркет](https://github.com/mikhailov-v-a/portfolio/tree/main/da_projects/test/sl)|Аналитика продаж|Excel|
 |[SB-банк](https://github.com/mikhailov-v-a/portfolio/tree/main/da_projects/test/sb)|SQL-запросы, вопросы по аналитике, парсинг|Excel</br>SQL</br>pandas</br>numpy</br>BeautifulSoup|
 |[GB-мед](https://github.com/mikhailov-v-a/portfolio/tree/main/da_projects/test/gb)|SQL-запросы|SQL</br>|
+|[MM-маркет](https://github.com/mikhailov-v-a/portfolio/tree/main/da_projects/test/mm)|Excel тестирование|Excel</br>|
 |[RB-банк](https://github.com/mikhailov-v-a/portfolio/tree/main/da_projects/test/rb)|SQL-запросы|SQL</br>|
