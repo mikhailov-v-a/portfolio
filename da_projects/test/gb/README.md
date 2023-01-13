@@ -120,7 +120,7 @@ GROUP BY name;
 
 ## 3. Создать базу данных аптеки и ответить на вопросы
 
-![erd](https://github.com/mikhailov-v-a/portfolio/tree/main/da_projects/test/gb/gb_db_erd.png)
+**[Схема БД](https://github.com/mikhailov-v-a/portfolio/tree/main/da_projects/test/gb/gb_db_erd.png)**
 
 **На какую сумму было продано арбидола за январь 2020?**
 
