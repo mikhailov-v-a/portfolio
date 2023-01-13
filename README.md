@@ -10,6 +10,6 @@
 ### Тестовые
 |Название-ссылка|Описание|Стек|
 |:-:|:-:|:-:|
-|[BPG](https://github.com/mikhailov-v-a/portfolio/tree/main/da_projects/test/bpg)|Парсинг URL адресов с сайта|Excel</br>requests</br>BeautifulSoup</br>re|
-|[SL](https://github.com/mikhailov-v-a/portfolio/tree/main/da_projects/test/sl)|Аналитика продаж|Excel|
-|[SB](https://github.com/mikhailov-v-a/portfolio/tree/main/da_projects/test/sb)|SQL-запросы, вопросы по аналитике, парсинг|Excel</br>SQL</br>pandas</br>numpy</br>BeautifulSoup|
+|[BPG-маркет](https://github.com/mikhailov-v-a/portfolio/tree/main/da_projects/test/bpg)|Парсинг URL адресов с сайта|Excel</br>requests</br>BeautifulSoup</br>re|
+|[SL-маркет](https://github.com/mikhailov-v-a/portfolio/tree/main/da_projects/test/sl)|Аналитика продаж|Excel|
+|[SB-банк](https://github.com/mikhailov-v-a/portfolio/tree/main/da_projects/test/sb)|SQL-запросы, вопросы по аналитике, парсинг|Excel</br>SQL</br>pandas</br>numpy</br>BeautifulSoup|
