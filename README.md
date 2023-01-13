@@ -17,3 +17,4 @@
 |[MM-маркет](https://github.com/mikhailov-v-a/portfolio/tree/main/da_projects/test/mm)|Решение задач в Excel|Excel</br>|
 |[RB-банк](https://github.com/mikhailov-v-a/portfolio/tree/main/da_projects/test/rb)|SQL-запросы|SQL</br>|
 |[MRS-маркет](https://github.com/mikhailov-v-a/portfolio/tree/main/da_projects/test/mrs)|Решение задач в Excel|Excel</br>|
+|[M-телеком](https://github.com/mikhailov-v-a/portfolio/tree/main/da_projects/test/m)|SQL-запросы|SQL</br>|
