@@ -6,6 +6,7 @@
 |:-:|:-:|:-:|
 |[DA-практикум](https://github.com/mikhailov-v-a/portfolio/tree/main/da_projects/edu/da_workshop)|Короткие вопросы по данным и ответы на них|Excel</br>Power BI</br>pandas</br>|
 |[ЯП. Надежность заемщиков](https://github.com/mikhailov-v-a/portfolio/tree/main/da_projects/edu/credit_scoring)|Влияние факторов на своевременное погашение кредитов|numpy</br>pandas</br>|
+|[KC. АB-тест](https://github.com/mikhailov-v-a/portfolio/tree/main/da_projects/edu/kc_ab_test)|Оценка новых агоритмов АВ-тестом|numpy</br>scipy</br>pandas</br>seaborn</br>sqlite3</br>|
 
 ### Тестовые
 |Название-ссылка|Описание|Стек|
