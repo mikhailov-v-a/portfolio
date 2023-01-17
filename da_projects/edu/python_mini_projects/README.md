@@ -1,0 +1,4 @@
+- [Минипроект №1 - Знакомство с pandas](https://github.com/mikhailov-v-a/portfolio/tree/main/da_projects/edu/python_mini_projects/1)
+- [Минипроект №2 - Продвинутый pandas и знакомство с визуализацией на Python](https://github.com/mikhailov-v-a/portfolio/tree/main/da_projects/edu/python_mini_projects/2)
+- [Минипроект №3.1 - Работа с грязными данными](https://github.com/mikhailov-v-a/portfolio/tree/main/da_projects/edu/python_mini_projects/3.1)
+- [Минипроект №3.2 - Дополнительный проект на фильтрацию данных](https://github.com/mikhailov-v-a/portfolio/tree/main/da_projects/edu/python_mini_projects/3.2)
