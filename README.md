@@ -5,9 +5,9 @@
 |Название-ссылка|Описание|Стек|
 |:-:|:-:|:-:|
 |[DA-практикум](https://github.com/mikhailov-v-a/portfolio/tree/main/da_projects/edu/da_workshop)|Короткие вопросы по данным и ответы на них|Excel</br>Power BI</br>pandas</br>|
-|[Python. Мини-проекты](https://github.com/mikhailov-v-a/portfolio/tree/main/da_projects/edu/python_mini_projects)|Сборник мини-проектов по анализу данных на Python|pandas</br>numpy</br>seaborn</br>|
+|[KC-Аналитик данных. Мини-проекты на python](https://github.com/mikhailov-v-a/portfolio/tree/main/da_projects/edu/python_mini_projects)|Сборник мини-проектов по анализу данных на Python|pandas</br>numpy</br>seaborn</br>|
 |[ЯП. Надежность заемщиков](https://github.com/mikhailov-v-a/portfolio/tree/main/da_projects/edu/credit_scoring)|Влияние факторов на своевременное погашение кредитов|numpy</br>pandas</br>|
-|[KC. АB-тест](https://github.com/mikhailov-v-a/portfolio/tree/main/da_projects/edu/kc_ab_test)|Оценка новых агоритмов АВ-тестом|numpy</br>scipy</br>pandas</br>seaborn</br>sqlite3</br>|
+|[KC-симулятор аналитика. АB-тест](https://github.com/mikhailov-v-a/portfolio/tree/main/da_projects/edu/kc_ab_test)|Оценка новых агоритмов АВ-тестом|numpy</br>scipy</br>pandas</br>seaborn</br>sqlite3</br>|
 
 ### Тестовые
 |Название-ссылка|Описание|Стек|

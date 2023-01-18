@@ -2,3 +2,5 @@
 - [Мини-проект №2 - Продвинутый pandas и знакомство с визуализацией на Python](https://github.com/mikhailov-v-a/portfolio/tree/main/da_projects/edu/python_mini_projects/2)
 - [Мини-проект №3.1 - Работа с грязными данными](https://github.com/mikhailov-v-a/portfolio/tree/main/da_projects/edu/python_mini_projects/3.1)
 - [Мини-проект №3.2 - Дополнительный проект на фильтрацию данных](https://github.com/mikhailov-v-a/portfolio/tree/main/da_projects/edu/python_mini_projects/3.2)
+- [Мини-проект №4.1 - Время и сводные таблицы](https://github.com/mikhailov-v-a/portfolio/tree/main/da_projects/edu/python_mini_projects/4.1)
+- [Мини-проект №4.2 - Дополнительный проект (проверить подключения продуктов определенными пользователями)](https://github.com/mikhailov-v-a/portfolio/tree/main/da_projects/edu/python_mini_projects/4.2)
