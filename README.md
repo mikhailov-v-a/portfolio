@@ -20,3 +20,10 @@
 |[RB-банк](https://github.com/mikhailov-v-a/portfolio/tree/main/da_projects/test/rb)|SQL-запросы|SQL</br>|
 |[MRS-маркет](https://github.com/mikhailov-v-a/portfolio/tree/main/da_projects/test/mrs)|Решение задач в Excel|Excel</br>|
 |[M-телеком](https://github.com/mikhailov-v-a/portfolio/tree/main/da_projects/test/m)|SQL-запросы|SQL</br>|
+
+## ML проекты
+### Учебные
+
+|Название-ссылка|Описание|Стек|
+|:-:|:-:|:-:|
+|[KC-Start ML. Мини-проекты на Python](https://github.com/mikhailov-v-a/portfolio/tree/main/ml_projects/edu/python_mini_projects)|Сборник мини-проектов на Python|pandas</br>SQL</br>|
