@@ -1,0 +1,1 @@
+- [Мини-проект №1 - Основные понятия статистики](https://github.com/mikhailov-v-a/portfolio/tree/main/da_projects/edu/stat_mini_projects/1)
