@@ -1,2 +1,3 @@
 - [Мини-проект №1 - Основные понятия статистики](https://github.com/mikhailov-v-a/portfolio/tree/main/da_projects/edu/stat_mini_projects/1)
 - [Мини-проект №2 - Проверка гипотез](https://github.com/mikhailov-v-a/portfolio/tree/main/da_projects/edu/stat_mini_projects/2)
+- [Мини-проект №3 - Статистический вывод](https://github.com/mikhailov-v-a/portfolio/tree/main/da_projects/edu/stat_mini_projects/3)
