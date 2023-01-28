@@ -1,2 +1,3 @@
 - [Мини-проект №1 - Основы pandas](https://github.com/mikhailov-v-a/portfolio/tree/main/ml_projects/edu/python_mini_projects/1)
 - [Мини-проект №2 - Базы данных в Python](https://github.com/mikhailov-v-a/portfolio/tree/main/ml_projects/edu/python_mini_projects/2)
+- [Мини-проект №3 - Классы и ООП](https://github.com/mikhailov-v-a/portfolio/tree/main/ml_projects/edu/python_mini_projects/3)
